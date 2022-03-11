@@ -8,6 +8,6 @@ Aqui você vai encontrar os locais para colocar suas repostas relativas aos requ
 
 **Nota**: Este direcionamento está presente no [repositório](https://github.com/tryber/sd-014-c-stranger-things) em que os requisitos do projeto são destrinchados.
 
-## Verifica a aplicação Frontend
+## Verifique a aplicação Frontend
 
 <a href="https://mcamillosf-ft.herokuapp.com">Stranger Things<a/>
